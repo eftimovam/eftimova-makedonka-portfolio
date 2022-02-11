@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/eftimova-makedonka-portfolio/static/css/main.d1820f4f.css",
+    "main.js": "/eftimova-makedonka-portfolio/static/js/main.809744ef.js",
+    "static/js/787.30237536.chunk.js": "/eftimova-makedonka-portfolio/static/js/787.30237536.chunk.js",
+    "static/media/som.pdf": "/eftimova-makedonka-portfolio/static/media/som.1df652c8dac335400163.pdf",
+    "static/media/learning.pdf": "/eftimova-makedonka-portfolio/static/media/learning.1e84409c73ab0d011437.pdf",
+    "static/media/makedonka.png": "/eftimova-makedonka-portfolio/static/media/makedonka.2ced40d7946ec355dcaf.png",
+    "static/media/contact.png": "/eftimova-makedonka-portfolio/static/media/contact.8a53bd497bf198ac9c95.png",
+    "static/media/som.png": "/eftimova-makedonka-portfolio/static/media/som.734d503ff9dc9e6cbf33.png",
+    "static/media/plant.png": "/eftimova-makedonka-portfolio/static/media/plant.b5f1b858ad98de935f9e.png",
+    "static/media/sugar.png": "/eftimova-makedonka-portfolio/static/media/sugar.a0ae68cb73eec1a9fc17.png",
+    "static/media/learning.png": "/eftimova-makedonka-portfolio/static/media/learning.d840abbc7cb63d591b08.png",
+    "static/media/cv.pdf": "/eftimova-makedonka-portfolio/static/media/cv.d7fcc6b747794686b2cd.pdf",
+    "index.html": "/eftimova-makedonka-portfolio/index.html",
+    "main.d1820f4f.css.map": "/eftimova-makedonka-portfolio/static/css/main.d1820f4f.css.map",
+    "main.809744ef.js.map": "/eftimova-makedonka-portfolio/static/js/main.809744ef.js.map",
+    "787.30237536.chunk.js.map": "/eftimova-makedonka-portfolio/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1820f4f.css",
+    "static/js/main.809744ef.js"
+  ]
+}
