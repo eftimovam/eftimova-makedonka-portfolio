@@ -1,0 +1,31 @@
+.homeItem {
+  margin: 40px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.homeItem > div {
+  width: 40%;
+}
+
+.homeItem > div > p {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.homeItem > div > a {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.homeItem > div > a:hover {
+  color: red;
+}
+
+.homeItem > img {
+  max-width: 40%;
+  max-height: 600px;
+}
