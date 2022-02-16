@@ -1,18 +1,19 @@
 import ScrollToTop from "react-scroll-to-top";
-
+import contact from "../../../assets/images/contact.png";
+import learning from "../../../assets/images/learning.png";
+import makedonka from "../../../assets/images/makedonka.png";
+import plant from "../../../assets/images/plant.png";
+import som from "../../../assets/images/som.png";
+import sugar from "../../../assets/images/sugar.png";
 import HomeItem from "../../common/home-item/home-item";
 import clasess from "./home.module.css";
 
-import makedonka from "../../../assets/images/makedonka.png";
-import som from "../../../assets/images/som.png";
-import learning from "../../../assets/images/learning.png";
-import sugar from "../../../assets/images/sugar.png";
-import contact from "../../../assets/images/contact.png";
-import plant from "../../../assets/images/plant.png";
+
 
 const cvPdf = require("../../../assets/pdfs/cv.pdf");
 const somPdf = require("../../../assets/pdfs/som.pdf");
 const learningPdf = require("../../../assets/pdfs/learning.pdf");
+const sugarPdf = require("../../../assets/pdfs/sugar.pdf");
 
 const projectsData = [
   {
@@ -40,8 +41,8 @@ const projectsData = [
     imagePath: sugar,
     description: "Sugar Wish",
     link: {
-      name: "In Progress",
-      url: "/projects/sugar-wish",
+      name: "Project ➔",
+      url: sugarPdf,
       isOpeningPdf: false,
     },
   },
